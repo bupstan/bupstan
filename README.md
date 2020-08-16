@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello there 👋🏻
+
+I'm an iOS Developer 👨🏻‍💻 and you can contact me at [bupstan.dev@gmail.com](mailto:\\bupstan.dev@gmail.com) for inquiries.
 
 <!--
 **bupstan/bupstan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
